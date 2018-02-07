@@ -81,6 +81,7 @@ collections:
     permalink: /:collection/:name
 
 # BUILD SETTINGS
+name: TAP Technologies
 markdown: kramdown
 highlighter: rouge
 sass:
