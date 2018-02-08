@@ -83,6 +83,7 @@ collections:
 
 # BUILD SETTINGS
 title: TAP Technologies
+description: ""
 markdown: kramdown
 highlighter: rouge
 sass:
