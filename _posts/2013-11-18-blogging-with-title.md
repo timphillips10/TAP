@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging with title
+title: Blogging with Title
 tags: [Test, Ipsum, Markdown, Portfolio]
 ---
 
