@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://timphillips10.github.io"
+url: "http://taptechnologies.net/" #"https://timphillips10.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
